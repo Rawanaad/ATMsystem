@@ -69,7 +69,7 @@ public class TransactoinHistory implements ATMI {
      
      
     public void loginToSystem(){
-        System.out.println("========== Welcome to Rawan ATM System ==========");
+        System.out.println("========== Welcome to ATM System ==========");
         Scanner in = new Scanner(System.in);
         System.out.println("========== Enter to the System as :");
         System.out.println("========== Admin press 1:");
